@@ -37,4 +37,4 @@ elif choice=='l':
 elif choice=='d':
         s = input("Enter size to be reduced(K,M,G) : ")
         os.system('umount /data')
-print("Successful")
+Pull the Github repo
